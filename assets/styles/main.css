@@ -1,0 +1,46 @@
+body {
+    background:rgb(52, 58, 64);
+}
+
+h1 {
+    font-size:3em;
+}
+
+.bgBlanc {
+    background:#ececec;
+}
+
+.vert {
+    color:green;
+}
+
+.rouge {
+    color:red;
+}
+
+i {
+    font-size:2em;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.validationLecture {
+    padding:1em 1em 0 0;
+}
+
+.resultats {
+    font-weight:bold;
+}
+
+.centre {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.pourcentage {
+    font-size:1em;
+    font-weight: bold;
+}
